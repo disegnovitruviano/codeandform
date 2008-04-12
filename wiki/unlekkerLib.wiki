@@ -1,0 +1,10 @@
+#summary Information about the unlekkerLib library for Processing
+#labels unlekkerLib
+
+= unlekkerLib library =
+
+unlekkerLib is a collection of utility classes that I use frequently, and which I’ve attempted to clean up enough for other people to use. Currently, the most significant features are the STL class for exporting 3D geometry for rapid prototyping and the TileSaver class for outputting high resolution stills from OpenGL applications.
+
+= Details =
+
+The current version of unlekkerLib is [http://code.google.com/p/codeandform/downloads/detail?name=codeandformCodeLib-0001.zip&can=2&q= unlekkerLib-0002]. There’s not too much documentation but the source code is included. See [http://workshop.evolutionzone.com/unlekkerlib/ this page] for a more detailed description. A collection of sample code can be found in [http://codeandform.googlecode.com/files/codeandformCodeLib-0001.zip codeandformCodeLib-0001].
